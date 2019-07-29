@@ -597,3 +597,4 @@ You can:
 - Nobel from Nepal 🇳🇵 ([Coderkoala](https://github.com/coderkoala))
 - higoka from Switzerland 🇨🇭 ([higoka](https://github.com/higoka))
 - Mohammad Alian from Iran 🇮🇷 ([mdaliyan](https://github.com/mdaliyan))
+- Christian Gagneraud From France/New Zealand ([github](https://github.com/chgans))
